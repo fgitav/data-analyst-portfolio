@@ -1,4 +1,4 @@
-### 1. Sales Transaction Analysis – FP-Growth
+### Market Basket Analysis– FP-Growth
 **Objective:**  
 Identify frequent product combinations to optimize product placement in the store.
 
